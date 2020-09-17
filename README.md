@@ -10,7 +10,7 @@ but the browser
 ignores it.
 </p>
 <h2>HTML Image</h2>
-<img src="pic_trulli.jpg" alt="Trulli" width="500" height="333">
+<img src="https://images.unsplash.com/photo-1494548162494-384bba4ab999?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80" alt="Trulli" width="500" height="333">
 <p>
 This paragraph
 contains      a lot of spaces
