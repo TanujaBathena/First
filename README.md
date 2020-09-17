@@ -1,7 +1,6 @@
 # First
 <html>
 <body>
-
 <p>
 This paragraph
 contains a lot of lines
